@@ -1,12 +1,11 @@
 def ransom_note(magazine, ransom):
     potential_words = {}
     for word in magazine:
-        if word in potential_words.keys():
-            potential_words[word]  += 1
-        else:
-            potential_words[word] = 1
+        potential_words[word] =0
+    for word in magazine:
+        potential_words[word]  += 1
     for word in ransom:
-        if word in potential_words.keys() and potential_words[word] > 0:
+        if potential_words[word] > 0:
             potential_words[word] -= 1
         else:
             return False
