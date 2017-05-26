@@ -13,9 +13,8 @@ def create_total_cost(list_one):
 
 t = int(raw_input().strip())
 
-
 def binary_search(list_two_matrix, target):
-    n = len(list_two)
+    n = len(list_two_matrix)
     bottom = 0
     middle = n/2
     top = n
