@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58eacf61-7fee-4f61-9aa8-06943f549093" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mathematics/Fundamentals/ArmyGame.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py" afterPath="$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py" afterPath="$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,10 +15,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/HackerRank$ArrayLeftRotation.coverage" NAME="ArrayLeftRotation Coverage Results" MODIFIED="1492135770295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingCodingInterview" />
     <SUITE FILE_PATH="coverage/HackerRank$QueueATaleofTwoStacks.coverage" NAME="QueueATaleofTwoStacks Coverage Results" MODIFIED="1492660657247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingCodingInterview" />
+    <SUITE FILE_PATH="coverage/Hackerrank$BinarySearchIceCream.coverage" NAME="BinarySearchIceCream Coverage Results" MODIFIED="1495827431538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingCodingInterview" />
     <SUITE FILE_PATH="coverage/Hackerrank$ArmyGame.coverage" NAME="ArmyGame Coverage Results" MODIFIED="1495751467097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mathematics/Fundamentals" />
     <SUITE FILE_PATH="coverage/HackerRank$StringsMakingAnagrams.coverage" NAME="StringsMakingAnagrams Coverage Results" MODIFIED="1492137681829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingCodingInterview" />
     <SUITE FILE_PATH="coverage/HackerRank$HashtablesRansomNote.coverage" NAME="HashtablesRansomNote Coverage Results" MODIFIED="1492142260700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingCodingInterview" />
-    <SUITE FILE_PATH="coverage/Hackerrank$LeonardoPrimeFactor.coverage" NAME="LeonardoPrimeFactor Coverage Results" MODIFIED="1495752225394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mathematics/Fundamentals" />
+    <SUITE FILE_PATH="coverage/Hackerrank$LeonardoPrimeFactor.coverage" NAME="LeonardoPrimeFactor Coverage Results" MODIFIED="1495812366938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mathematics/Fundamentals" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,31 +27,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BinarySearchIceCream.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BinarySearchIceCream.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArmyGame.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mathematics/Fundamentals/ArmyGame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeonardoPrimeFactor.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,8 +60,8 @@
         <option value="$PROJECT_DIR$/CrackingCodingInterview/QueueATaleofTwoStacks.py" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/TreesIsBinarySearchTree.py" />
         <option value="$PROJECT_DIR$/Mathematics/Fundamentals/ArmyGame.py" />
-        <option value="$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py" />
         <option value="$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py" />
       </list>
     </option>
   </component>
@@ -187,25 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeonardoPrimeFactor">
-    <configuration default="false" name="StringsMakingAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrackingCodingInterview" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HackerRank" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrackingCodingInterview/StringsMakingAnagrams.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.BinarySearchIceCream">
     <configuration default="false" name="HashtablesRansomNote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,6 +235,24 @@
       <module name="HackerRank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearchIceCream" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrackingCodingInterview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HackerRank" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -493,19 +472,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.StringsMakingAnagrams" />
-      <item index="1" class="java.lang.String" itemvalue="Python.HashtablesRansomNote" />
-      <item index="2" class="java.lang.String" itemvalue="Python.QueueATaleofTwoStacks" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ArmyGame" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeonardoPrimeFactor" />
+      <item index="0" class="java.lang.String" itemvalue="Python.HashtablesRansomNote" />
+      <item index="1" class="java.lang.String" itemvalue="Python.QueueATaleofTwoStacks" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ArmyGame" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeonardoPrimeFactor" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BinarySearchIceCream" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeonardoPrimeFactor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ArmyGame" />
-        <item index="2" class="java.lang.String" itemvalue="Python.QueueATaleofTwoStacks" />
-        <item index="3" class="java.lang.String" itemvalue="Python.HashtablesRansomNote" />
-        <item index="4" class="java.lang.String" itemvalue="Python.StringsMakingAnagrams" />
+        <item index="0" class="java.lang.String" itemvalue="Python.BinarySearchIceCream" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeonardoPrimeFactor" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ArmyGame" />
+        <item index="3" class="java.lang.String" itemvalue="Python.QueueATaleofTwoStacks" />
+        <item index="4" class="java.lang.String" itemvalue="Python.HashtablesRansomNote" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +515,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -708,18 +687,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py">
+    <entry file="file://$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="321">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mathematics/Fundamentals/LeonardoPrimeFactor.py">
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/BinarySearchIceCream.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -25,18 +25,24 @@ def find_next_prime(primes):
 def find_primes_lower(number):
     current = 1
     count = 0
-    while current <= number:
-
-
-
-
+    while current < number:
+        if count < len(primes):
+            current = current * primes[count]
+            count += 1
+        else:
+            primes.append(find_next_prime(primes))
+            current = current * primes[count]
+            count += 1
+    if current > number:
+        count -= 1
+    return count
 
 
 
 n = int(raw_input())
-primes = 100000000000000000*[0]
-sievePrimes(len(primes), primes)
+primes = [2]
+
 
 for i in range(n):
     a = int(raw_input())
-    print find_prime_factors(a)
+    print find_primes_lower(a)
